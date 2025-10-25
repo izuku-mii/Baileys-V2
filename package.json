@@ -1,6 +1,6 @@
 {
-  "name": "wileys",
-  "version": "0.0.5",
+  "name": "BaileysV2",
+  "version": "1.0.0",
   "description": "WhatsApp Web API Library",
   "keywords": [
     "wileys",
@@ -70,13 +70,12 @@
     "conventional-changelog-cli": "^2.2.2",
     "eslint": "^8.0.0",
     "jest": "^27.0.6",
-    "jimp": "^0.16.1",
+    "jimp": "^0.22.2",
     "json": "^11.0.0",
     "link-preview-js": "^3.0.0",
     "open": "^8.4.2",
     "qrcode-terminal": "^0.12.0",
     "release-it": "^15.10.3",
-    "sharp": "^0.34.1",
     "ts-jest": "^27.0.3",
     "ts-node": "^10.8.1",
     "typedoc": "^0.27.9",
@@ -84,7 +83,7 @@
   },
   "peerDependencies": {
     "audio-decode": "^2.1.3",
-    "jimp": "^0.16.1",
+    "jimp": "^0.22.2",
     "link-preview-js": "^3.0.0",
     "qrcode-terminal": "^0.12.0",
     "sharp": "^0.34.1"

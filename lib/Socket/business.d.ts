@@ -7,8 +7,6 @@ export declare const makeBusinessSocket: (config: SocketConfig) => {
         products: import("../Types").Product[];
         nextPageCursor: string | undefined;
     }>;
-    updateCoverPhoto: (photo: import("../Types").WAMediaUpload) => Promise<number>
-    removeCoverPhoto: (id: string) => Promise<any>
     getCollections: (jid?: string, limit?: number) => Promise<{
         collections: import("../Types").CatalogCollection[];
     }>;
